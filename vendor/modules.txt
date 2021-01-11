@@ -1,0 +1,22 @@
+# github.com/google/uuid v1.1.1
+github.com/google/uuid
+# github.com/joho/godotenv v1.3.0
+## explicit
+github.com/joho/godotenv
+github.com/joho/godotenv/autoload
+# go.opencensus.io v0.22.3
+go.opencensus.io/internal/tagencoding
+go.opencensus.io/metric/metricdata
+go.opencensus.io/metric/metricproducer
+go.opencensus.io/resource
+go.opencensus.io/stats
+go.opencensus.io/stats/internal
+go.opencensus.io/stats/view
+go.opencensus.io/tag
+# golang.org/x/time v0.0.0-20200416051211-89c76fbcd5d1
+golang.org/x/time/rate
+# googlemaps.github.io/maps v1.3.1
+## explicit
+googlemaps.github.io/maps
+googlemaps.github.io/maps/internal
+googlemaps.github.io/maps/metrics

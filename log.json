@@ -1,0 +1,272 @@
+{
+  "origin_addresses": [
+    "2501 William D Tate Ave, Grapevine, TX 76051, USA",
+    "2501 William D Tate Ave, Grapevine, TX 76051, USA",
+    "2501 William D Tate Ave, Grapevine, TX 76051, USA",
+    "2501 William D Tate Ave, Grapevine, TX 76051, USA"
+  ],
+  "destination_addresses": [
+    "2501 William D Tate Ave, Grapevine, TX 76051, USA",
+    "2501 William D Tate Ave, Grapevine, TX 76051, USA",
+    "2501 William D Tate Ave, Grapevine, TX 76051, USA",
+    "2501 William D Tate Ave, Grapevine, TX 76051, USA"
+  ],
+  "rows": [
+    {
+      "elements": [
+        {
+          "status": "OK",
+          "distance": {
+            "text": "87 m",
+            "value": 87
+          },
+          "duration": {
+            "value": 14,
+            "text": "14s"
+          },
+          "duration_in_traffic": {
+            "value": 0,
+            "text": ""
+          }
+        },
+        {
+          "status": "OK",
+          "distance": {
+            "text": "12 m",
+            "value": 12
+          },
+          "duration": {
+            "value": 2,
+            "text": "2s"
+          },
+          "duration_in_traffic": {
+            "value": 0,
+            "text": ""
+          }
+        },
+        {
+          "status": "OK",
+          "distance": {
+            "text": "0.3 km",
+            "value": 252
+          },
+          "duration": {
+            "value": 40,
+            "text": "40s"
+          },
+          "duration_in_traffic": {
+            "value": 0,
+            "text": ""
+          }
+        },
+        {
+          "status": "OK",
+          "distance": {
+            "text": "0.3 km",
+            "value": 256
+          },
+          "duration": {
+            "value": 41,
+            "text": "41s"
+          },
+          "duration_in_traffic": {
+            "value": 0,
+            "text": ""
+          }
+        }
+      ]
+    },
+    {
+      "elements": [
+        {
+          "status": "OK",
+          "distance": {
+            "text": "1 m",
+            "value": 0
+          },
+          "duration": {
+            "value": 0,
+            "text": ""
+          },
+          "duration_in_traffic": {
+            "value": 0,
+            "text": ""
+          }
+        },
+        {
+          "status": "OK",
+          "distance": {
+            "text": "74 m",
+            "value": 74
+          },
+          "duration": {
+            "value": 12,
+            "text": "12s"
+          },
+          "duration_in_traffic": {
+            "value": 0,
+            "text": ""
+          }
+        },
+        {
+          "status": "OK",
+          "distance": {
+            "text": "0.2 km",
+            "value": 165
+          },
+          "duration": {
+            "value": 26,
+            "text": "26s"
+          },
+          "duration_in_traffic": {
+            "value": 0,
+            "text": ""
+          }
+        },
+        {
+          "status": "OK",
+          "distance": {
+            "text": "0.2 km",
+            "value": 170
+          },
+          "duration": {
+            "value": 27,
+            "text": "27s"
+          },
+          "duration_in_traffic": {
+            "value": 0,
+            "text": ""
+          }
+        }
+      ]
+    },
+    {
+      "elements": [
+        {
+          "status": "OK",
+          "distance": {
+            "text": "74 m",
+            "value": 74
+          },
+          "duration": {
+            "value": 12,
+            "text": "12s"
+          },
+          "duration_in_traffic": {
+            "value": 0,
+            "text": ""
+          }
+        },
+        {
+          "status": "OK",
+          "distance": {
+            "text": "1 m",
+            "value": 0
+          },
+          "duration": {
+            "value": 0,
+            "text": ""
+          },
+          "duration_in_traffic": {
+            "value": 0,
+            "text": ""
+          }
+        },
+        {
+          "status": "OK",
+          "distance": {
+            "text": "0.2 km",
+            "value": 239
+          },
+          "duration": {
+            "value": 38,
+            "text": "38s"
+          },
+          "duration_in_traffic": {
+            "value": 0,
+            "text": ""
+          }
+        },
+        {
+          "status": "OK",
+          "distance": {
+            "text": "0.2 km",
+            "value": 244
+          },
+          "duration": {
+            "value": 39,
+            "text": "39s"
+          },
+          "duration_in_traffic": {
+            "value": 0,
+            "text": ""
+          }
+        }
+      ]
+    },
+    {
+      "elements": [
+        {
+          "status": "OK",
+          "distance": {
+            "text": "0.2 km",
+            "value": 165
+          },
+          "duration": {
+            "value": 29,
+            "text": "29s"
+          },
+          "duration_in_traffic": {
+            "value": 0,
+            "text": ""
+          }
+        },
+        {
+          "status": "OK",
+          "distance": {
+            "text": "0.2 km",
+            "value": 239
+          },
+          "duration": {
+            "value": 41,
+            "text": "41s"
+          },
+          "duration_in_traffic": {
+            "value": 0,
+            "text": ""
+          }
+        },
+        {
+          "status": "OK",
+          "distance": {
+            "text": "1 m",
+            "value": 0
+          },
+          "duration": {
+            "value": 0,
+            "text": ""
+          },
+          "duration_in_traffic": {
+            "value": 0,
+            "text": ""
+          }
+        },
+        {
+          "status": "OK",
+          "distance": {
+            "text": "5 m",
+            "value": 5
+          },
+          "duration": {
+            "value": 1,
+            "text": "1s"
+          },
+          "duration_in_traffic": {
+            "value": 0,
+            "text": ""
+          }
+        }
+      ]
+    }
+  ]
+}
